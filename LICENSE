@@ -1,0 +1,145 @@
+Course Automation Userscript License
+Personal, Non-Commercial, No-Resale License
+Version 1.1
+
+Copyright (c) 2026 JanGShui. All rights reserved.
+
+This license is NOT an OSI-approved open-source license. It grants only the
+limited rights expressly stated below. If you do not agree to these terms, do
+not use, copy, modify, or distribute the software.
+
+1. Definitions
+
+"Software" means the Course.js userscript and all associated documentation,
+including README.md, DISCLAIMER.md, and this License, together with all
+copies, modifications, and derivative works.
+
+"Commercial Use" means any use that is directly or indirectly intended for
+commercial advantage or monetary compensation, including selling, reselling,
+renting, leasing, paid distribution, paid services, paid courses, membership
+or subscription offerings, advertising or traffic monetization, bundling with
+a paid product, or internal use by a for-profit entity.
+
+"Author" means JanGShui, the original creator and copyright holder of the
+Software. "Contributors" means individuals who submit code, documentation,
+or other materials to the project.
+
+"You" means any person or entity exercising rights under this License.
+
+2. Grant
+
+Subject to the conditions of this License, you are granted a worldwide,
+royalty-free, non-exclusive, non-transferable license to view, study, fork,
+and use the Software for personal, non-commercial purposes only.
+
+3. Conditions
+
+(a) You must retain this License, DISCLAIMER.md, and all copyright,
+    attribution, and prohibition notices in all copies or substantial
+    portions of the Software.
+
+(b) Any redistribution of the Software or a modified version must be for
+    non-commercial purposes only and must include this License and
+    DISCLAIMER.md.
+
+(c) You may modify the Software for personal use. If you distribute a
+    modified version, you must clearly mark it as modified and you may not
+    remove the prohibition on sale or other commercial exploitation.
+
+(d) You may not use the Software for any illegal, fraudulent, academically
+    dishonest, or platform-terms-violating purpose.
+
+4. Prohibited Uses
+
+You may NOT:
+
+(a) sell, resell, rent, lease, sublicense, or otherwise transfer the Software
+    for any fee or other consideration;
+
+(b) distribute the Software as part of a paid product, paid service, paid
+    course, membership, subscription, or commercial bundle;
+
+(c) offer paid services such as "course farming", "auto-watching", "paid
+    completion", or similar services based on the Software;
+
+(d) use the Software for any Commercial Use without the prior written
+    permission of the copyright holder;
+
+(e) remove, obscure, or alter any copyright, attribution, disclaimer, or
+    no-resale notice;
+
+(f) use the Software to commit fraud, academic dishonesty, identity
+    impersonation, unauthorized access, or any violation of applicable law.
+
+5. No Warranty
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT.
+
+6. Limitation of Liability
+
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,
+DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR
+OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE
+USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+7. No Support or Maintenance
+
+The authors are under no obligation to provide support, maintenance, updates,
+bug fixes, compatibility updates, or responses to issues or pull requests.
+The Software may become incompatible with any platform, browser, or userscript
+manager at any time. Any maintenance provided by community contributors is
+voluntary and is not the responsibility of the original author.
+
+8. Indemnity
+
+To the maximum extent permitted by law, you agree to indemnify, defend, and
+hold harmless the authors and copyright holders from and against any claims,
+damages, liabilities, costs, and expenses (including reasonable attorneys'
+fees) arising out of or related to:
+
+(a) your use, modification, or distribution of the Software;
+
+(b) your violation of this License or DISCLAIMER.md;
+
+(c) your violation of any applicable law or third-party terms; or
+
+(d) your infringement of any third-party right.
+
+9. Termination
+
+Any violation of this License automatically terminates your rights under it.
+Upon termination, you must stop using the Software and delete all copies in
+your possession or control. Sections 5, 6, 7, and 8 survive termination.
+
+10. No Trademark License
+
+This License does not grant permission to use the trade names, trademarks,
+service marks, or product names of the Author, including "Course Farming"
+and "JanGShui", except as required for reasonable and customary use in
+describing the origin of the Software and reproducing the content of this
+License and DISCLAIMER.md.
+
+11. Severability
+
+If any provision of this License is held invalid or unenforceable, the
+remaining provisions shall remain in full force and effect.
+
+12. Chinese Summary
+
+本许可不是 OSI 认可的开源许可证。以下中文要点仅供参考；如中英文版本不一致，
+以英文版本为准。
+
+- 仅允许个人、非商业、学习研究用途。
+- 严禁出售、出租、有偿分发、付费打包、代刷收费以及任何其他商业利用。
+- “商业利用”按最广义解释，包括直接收费、间接获利、引流变现、付费社群、
+  付费教程、广告分成、商业产品捆绑，以及为商业实体提供的内部或外部服务。
+- 不得用于违法、欺诈、学术不端、冒充他人或违反平台协议的行为。
+- 必须保留版权、署名、免责声明和禁止售卖声明。
+- 修改版再分发仅限非商业用途，必须注明修改，并附本许可与免责声明。
+- 本软件按“现状”提供，不提供任何担保；作者不承担任何责任。
+- 原作者不承诺提供维护、更新、兼容性修复或技术支持。
+- 如因你的使用行为导致第三方索赔，你同意对作者及贡献者进行赔偿并使其免受损害。
+- 本许可不授予使用作者名称、项目名称或商标的权利，署名用途除外。
+- 违反本许可将自动终止授权，使用者必须停止使用并删除所有副本；终止后，免责、责任限制和赔偿条款继续有效。
